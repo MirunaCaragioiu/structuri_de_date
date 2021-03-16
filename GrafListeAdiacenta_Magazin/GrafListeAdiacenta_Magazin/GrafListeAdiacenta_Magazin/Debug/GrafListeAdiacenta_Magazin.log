@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\anul 2, sem 2\sdd\graflisteadiacenta_magazin\graflisteadiacenta_magazin\source.cpp(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\anul 2, sem 2\sdd\graflisteadiacenta_magazin\graflisteadiacenta_magazin\source.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\anul 2, sem 2\sdd\graflisteadiacenta_magazin\graflisteadiacenta_magazin\source.cpp(97): warning C4715: 'cautareNod': not all control paths return a value
+  GrafListeAdiacenta_Magazin.vcxproj -> D:\Anul 2, Sem 2\SDD\GrafListeAdiacenta_Magazin\Debug\GrafListeAdiacenta_Magazin.exe
+  GrafListeAdiacenta_Magazin.vcxproj -> D:\Anul 2, Sem 2\SDD\GrafListeAdiacenta_Magazin\Debug\GrafListeAdiacenta_Magazin.pdb (Full PDB)

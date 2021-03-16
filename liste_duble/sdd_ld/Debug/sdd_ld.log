@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\mirun\desktop\sdd_ld\sdd_ld\source.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\mirun\desktop\sdd_ld\sdd_ld\source.cpp(284): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\mirun\desktop\sdd_ld\sdd_ld\source.cpp(156): warning C4715: 'cautarePozitie': not all control paths return a value
+c:\users\mirun\desktop\sdd_ld\sdd_ld\source.cpp(193): warning C4715: 'cautareValoare': not all control paths return a value
+  sdd_ld.vcxproj -> C:\Users\mirun\Desktop\sdd_ld\Debug\sdd_ld.exe

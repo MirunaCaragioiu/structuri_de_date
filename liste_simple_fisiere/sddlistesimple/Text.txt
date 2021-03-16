@@ -1,0 +1,28 @@
+12
+2
+Vasile C
+Mihai M
+Toamna
+45
+3
+Barbu H
+Dinu S
+Marius P
+Vara
+5
+1
+Alecsandri
+Iona
+47
+2
+Nicu B
+Ion A
+Carte
+52
+3
+Alecu J
+Adam C
+Oprea C
+Acasa
+
+

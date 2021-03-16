@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mirun\desktop\stive_cozi\stive_cozi\source.cpp(110): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\mirun\desktop\stive_cozi\stive_cozi\source.cpp(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mirun\desktop\stive_cozi\stive_cozi\source.cpp(123): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  stive_cozi.vcxproj -> C:\Users\mirun\Desktop\stive_cozi\Debug\stive_cozi.exe

@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\mirun\desktop\sdd\avldepozit\avldepozit\source.cpp(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\mirun\desktop\sdd\avldepozit\avldepozit\source.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\mirun\desktop\sdd\avldepozit\avldepozit\source.cpp(162): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\mirun\desktop\sdd\avldepozit\avldepozit\source.cpp(172): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\mirun\desktop\sdd\avldepozit\avldepozit\source.cpp(173): warning C4101: 'd': unreferenced local variable
+  AVLDepozit.vcxproj -> C:\Users\mirun\Desktop\SDD\AVLDepozit\Debug\AVLDepozit.exe

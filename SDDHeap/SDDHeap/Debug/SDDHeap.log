@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\mirun\desktop\sdd\sddheap\sddheap\source.cpp(61): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\mirun\desktop\sdd\sddheap\sddheap\source.cpp(61): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\mirun\desktop\sdd\sddheap\sddheap\source.cpp(67): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\mirun\desktop\sdd\sddheap\sddheap\source.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mirun\desktop\sdd\sddheap\sddheap\source.cpp(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\mirun\desktop\sdd\sddheap\sddheap\source.cpp(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+LINK : warning LNK4076: invalid incremental status file 'C:\Users\mirun\Desktop\SDD\SDDHeap\Debug\SDDHeap.ilk' (which will be deleted); linking nonincrementally
+  SDDHeap.vcxproj -> C:\Users\mirun\Desktop\SDD\SDDHeap\Debug\SDDHeap.exe

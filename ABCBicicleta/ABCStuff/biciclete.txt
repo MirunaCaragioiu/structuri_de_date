@@ -1,0 +1,25 @@
+1
+200
+5
+2
+Popescu Ion
+2
+100
+4
+1
+Gigel Maria
+3
+200
+3
+4
+Carmen Ionela
+4
+600
+2
+5
+Mircea Iulian
+5
+300
+1
+6
+Florescu Ionut
